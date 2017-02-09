@@ -24,7 +24,7 @@ public class SpielfeldTest {
 	
 	@InjectMocks
 	Spielfeld spielfeld;
-	
+	/* Kommentar von Robert: Mocking lernen wir später */
 	@Mock
 	ReversiRegeln regeln;
 
