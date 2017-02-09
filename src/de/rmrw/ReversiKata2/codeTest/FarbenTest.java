@@ -1,5 +1,5 @@
 package de.rmrw.ReversiKata2.codeTest;
-
+/* unter netbeans muss noch die richtige junit-Bibliothek eingebunden werden */
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
