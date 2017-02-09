@@ -7,7 +7,7 @@ import org.junit.Test;
 import de.rmrw.ReversiKata2.code.Farben;
 
 public class FarbenTest {
-
+/* Das @Before brauchen wir eigentlich nicht */
 	@Before
 	public void setUp() throws Exception {
 	}
