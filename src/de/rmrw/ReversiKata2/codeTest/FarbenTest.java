@@ -12,6 +12,7 @@ public class FarbenTest {
 	public void setUp() throws Exception {
 	}
 
+        /* Dieser Test ist wichtig */
 	@Test
 	public final void testComplementaerZu() {
 		Assert.assertTrue(Farben.WEISS.complementaerZu(Farben.SCHWARZ));
