@@ -21,7 +21,7 @@ import de.rmrw.ReversiKata2.code.Spielfeld;
 
 @RunWith(MockitoJUnitRunner.class)
 public class SpielfeldTest {
-	
+	/* Kommentar Korbi: Was soll das? */
 	@InjectMocks
 	Spielfeld spielfeld;
 	/* Kommentar von Robert: Mocking lernen wir später */
